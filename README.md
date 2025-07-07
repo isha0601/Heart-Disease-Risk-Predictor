@@ -52,7 +52,7 @@ This project uses the **`heart_cleveland_upload.csv`** file, which is derived fr
 2️⃣ Create a virtual environment (optional but recommended):
 - python -m venv venv
 - source venv/bin/activate  # Linux/macOS
-- OR
+ OR
 - venv\Scripts\activate     # Windows
 
 3️⃣ Install dependencies:
