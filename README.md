@@ -63,7 +63,7 @@ This project uses the **`heart_cleveland_upload.csv`** file, which is derived fr
 
 5️⃣ Open your browser → http://localhost:8501
 
-##📌 **How it works**
+## 📌 **How it works**
 - Loads the Cleveland Heart Disease dataset (heart_cleveland_upload.csv).
 
 - Trains a Random Forest Classifier on the data.
